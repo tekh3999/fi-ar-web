@@ -1,2 +1,1 @@
-# fi-ar-web
-augmented cube
+# AR-Examples
